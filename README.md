@@ -1,41 +1,40 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=600&height=50&lines=Merhaba,+Ben+Hazım!+👋;Bilgisayar+Mühendisliği+Öğrencisi;Flutter+%26+C%23+Geliştirici+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&height=50&lines=Merhaba,+Ben+Hazım+Ablak!+👋;Bilgisayar+Mühendisliği+Öğrencisi;Flutter+%26+C%23+Developer;AI+Enthusiast+🚀" alt="Typing SVG" />
 </h1>
 
-<div align="center">
+<p align="center">
+  <a href="https://software-developer-hafiz.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Web_Sitem-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://tr.linkedin.com/in/haz%C4%B1m-ablak-62a5772a9" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</div>
+</p>
 
 ---
 
-### 👨‍💻 Hakkımda | About Me
-Yapay zeka, veri madenciliği ve çapraz platform (cross-platform) geliştirme alanlarına tutkulu 3. sınıf bilgisayar mühendisliği öğrencisiyim. İnsan hayatına dokunan, ölçeklenebilir ve yenilikçi projeler üretmeye odaklanıyorum.
-*(Passionate 3rd-year CS student focusing on AI, data mining, and cross-platform app development. I build scalable applications for real-world impact.)*
+### 📝 Hakkımda / About Me
 
-### 🚀 Neler Yapıyorum?
-- 📱 **Mobil Geliştirme:** Flutter kullanarak **Huda AI** ve **Focus Hero** projelerini inşa ediyorum.
-- ⚙️ **Otomasyon:** C# ve SQL Server ile kurumsal çapta bir **SMS & Mail Otomasyonu** geliştiriyorum.
-- 🧠 **Akademik Araştırma:** Yapay zeka destekli dijital koçluk projemle **TÜBİTAK 2209-A** sürecini başarıyla yürütüyorum.
+<details>
+  <summary><b>🇹🇷 Türkçe Özgeçmiş için Tıklayın</b></summary>
+  <p>Yazılım dünyasında kalıcı izler bırakmayı hedefleyen, Siirt Üniversitesi 3. sınıf Bilgisayar Mühendisliği öğrencisiyim. Yapay zeka destekli çözümler, kurumsal otomasyonlar ve mobil uygulama geliştirme ana odak noktalarım arasında yer alıyor. Sadece kod yazmıyor, aynı zamanda TÜBİTAK projeleri ile akademik araştırmalar yürütüyorum.</p>
+</details>
 
-### 🛠️ Yetenek Setim (Tech Stack)
-<div align="center">
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-</div>
+<details>
+  <summary><b>🇬🇧 Click for English Bio</b></summary>
+  <p>I am a 3rd-year Computer Engineering student at Siirt University, driven by a passion for creating impactful software. My primary focus lies in AI-driven solutions, enterprise automations, and cross-platform mobile development. I bridge the gap between academic research (TÜBİTAK projects) and real-world application building.</p>
+</details>
 
 ---
 
-### 📊 GitHub İstatistiklerim
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hazimablak&theme=radical&show_icons=true&hide_border=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazimablak&theme=dracula&layout=compact&hide_border=true" alt="Top Languages" />
-</div>
+### 🚀 Aktif Projeler & Hedefler
+- 📱 **Mobil:** **Huda AI** ve **Focus Hero** (Flutter ile geliştiriliyor).
+- ⚙️ **Sistem:** C# ve SQL Server tabanlı **SMS & Mail Otomasyonu**.
+- 🔬 **Akademik:** **TÜBİTAK 2209-A** Dijital Koçluk ve Yapay Zeka süreci.
+
+### 🛠️ Yetenek Setim
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cs,py,flutter,dotnet,mysql,html,css,git,vscode,visualstudio" />
+</p>
+
+---
