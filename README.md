@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <a href="https://linkedin.com/in/(https://tr.linkedin.com/in/haz%C4%B1m-ablak-62a5772a9)" target="_blank">
+  <a href="https://tr.linkedin.com/in/haz%C4%B1m-ablak-62a5772a9" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
