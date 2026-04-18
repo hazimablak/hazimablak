@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://software-developer-hafiz.netlify.app/" target="_blank">
+  <a href="https://hazimablak.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Web_Sitem-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://tr.linkedin.com/in/haz%C4%B1m-ablak-62a5772a9" target="_blank">
