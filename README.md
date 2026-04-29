@@ -18,33 +18,47 @@
 
 ### 👨‍💻 Hakkımda / About Me
 
-> **"Python ile makine öğrenmesi modelleri tasarlayan ve bu zekayı modern sistem mimarisiyle birleştirerek yeni nesil dijital ürünler inşa eden yazılım geliştirici."**
+<details>
+  <summary><b>🇹🇷 Türkçe Özgeçmiş için Tıklayın</b></summary>
+  <br>
+  <p><b>"Python ile makine öğrenmesi modelleri tasarlayan ve bu zekayı modern sistem mimarisiyle birleştirerek yeni nesil mobil dijital ürünler inşa eden yazılım geliştirici."</b></p>
+  <p>Yazılım dünyasında kalıcı izler bırakmayı hedefleyen, Siirt Üniversitesi 3. sınıf Bilgisayar Mühendisliği öğrencisiyim. Yapay zeka destekli çözümler, kurumsal otomasyonlar ve mobil uygulama geliştirme ana odak noktalarım arasında yer alıyor. Sadece kod yazmıyor, aynı zamanda TÜBİTAK projeleri ile akademik araştırmalar yürütüyorum.</p>
+</details>
 
-- 🔭 **Şu an üzerinde çalıştığım projeler:** Flutter tabanlı **Huda AI** ve **Focus Hero**.
-- ⚙️ **Sistem Geliştirme:** C# ve SQL Server tabanlı SMS & Mail Otomasyonu.
-- 🔬 **Akademik Çalışmalar:** **TÜBİTAK 2209-A** (Dijital Koçluk ve Yapay Zeka Süreçleri).
-- 🌱 **Şu an odaklandığım alanlar:** Python Temelleri, Makine Öğrenmesi (Machine Learning) ve İleri Seviye Mobil Mimari.
-- 📫 **Bana ulaşın:** İşbirlikleri ve fikir alışverişi için LinkedIn üzerinden mesaj atabilirsiniz.
+<details>
+  <summary><b>🇬🇧 Click for English Bio</b></summary>
+  <br>
+  <p><b>"A software developer designing machine learning models with Python and combining this intelligence with modern system architecture to build next-generation mobile digital products."</b></p>
+  <p>I am a 3rd-year Computer Engineering student at Siirt University, driven by a passion for creating impactful software. My primary focus lies in AI-driven solutions, enterprise automations, and cross-platform mobile development. I bridge the gap between academic research (TÜBİTAK projects) and real-world application building.</p>
+</details>
+
+<br>
+
+- 🔭 **Şu an üzerinde çalıştığım projeler / Current Projects:** Flutter tabanlı **Huda AI** ve **Focus Hero**.
+- ⚙️ **Sistem Geliştirme / System Dev:** C# ve SQL Server tabanlı SMS & Mail Otomasyonu.
+- 🔬 **Akademik Çalışmalar / Academic Research:** **TÜBİTAK 2209-A** (Dijital Koçluk ve Yapay Zeka Süreçleri).
+- 🌱 **Şu an odaklandığım alanlar / Currently Learning:** Python Temelleri, Makine Öğrenmesi (Machine Learning) ve İleri Seviye Mobil Mimari.
+- 📫 **Bana ulaşın / Contact:** İşbirlikleri ve fikir alışverişi için LinkedIn veya Mail üzerinden mesaj atabilirsiniz.
 
 ---
 
-### 🛠️ Teknoloji Yığınım (Tech Stack)
+### 🛠️ Teknoloji Yığınım / Tech Stack
 
-**💻 Mobil & Arka Uç (Backend)**
+**💻 Mobil & Arka Uç (Mobile & Backend)**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,androidstudio,flutter,dart,cs,dotnet" />
   </a>
 </p>
 
-**🤖 Veri & Yapay Zeka Odaklı Gelişim**
+**🤖 Veri & Yapay Zeka (Data & AI)**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,mysql,sqlite" />
   </a>
 </p>
 
-**🔧 Araçlar & Versiyon Kontrol**
+**🔧 Araçlar & Versiyon Kontrol (Tools & Git)**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
@@ -53,7 +67,7 @@
 
 ---
 
-### 📊 GitHub İstatistikleri
+### 📊 GitHub İstatistikleri / Stats
 
 <p align="center">
   <a href="https://github.com/hazimablak">
